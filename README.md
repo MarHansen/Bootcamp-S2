@@ -1,2 +1,2 @@
 # Bootcamp-S2
-Masih belajar gaes
+2nd Semester Data Structure Training
